@@ -1,4 +1,4 @@
-###Hi, I'm Arul.
+### Hi, I'm Arul.
 
 I am a trained medical physician with MBBS and MD. Now I work as a Research Scientist, and most of my day goes into Claude Code, building custom skills, subagents, and memory systems for real research workflows.
 I still write R for data analysis, but with coding agents I'm mostly just the supervisor now. I steer it, then check what it writes. That's the setup I'm trying to build toward, especially for research data pipelines.
